@@ -1,151 +1,151 @@
 {
-  "title": "Personalization",
-  "description": "Make it yours! Who wants a boring system?",
+  "title": "個人設定",
+  "description": "自分好みにカスタマイズ！退屈なシステムなんて欲しくないですよね？",
   "themeSelector": {
-    "title": "Theme",
-    "desc": "Choose a theme that suits your style.",
+    "title": "テーマ",
+    "desc": "あなたのスタイルに合ったテーマを選択してください。",
     "theme": {
-      "system": "System",
-      "light": "Light",
-      "dark": "Dark"
+      "system": "システム",
+      "light": "ライト",
+      "dark": "ダーク"
     },
-    "customBgColor": "Custom Background Color"
+    "customBgColor": "カスタム背景色"
   },
   "themeColorSelector": {
-    "title": "Theme Color",
-    "desc": "Choose the color that best fits your interface.",
+    "title": "テーマカラー",
+    "desc": "インターフェースに最適な色を選択してください。",
     "colors": {
-      "red": "Red",
-      "pink": "Pink",
-      "purple": "Purple",
-      "deepPurple": "Deep Purple",
-      "indigo": "Indigo",
-      "blue": "Blue",
-      "lightBlue": "Light Blue",
-      "cyan": "Cyan",
-      "teal": "Teal",
-      "green": "Green",
-      "lightGreen": "Light Green",
-      "lime": "Lime",
-      "yellow": "Yellow",
-      "amber": "Amber",
-      "orange": "Orange",
-      "deepOrange": "Deep Orange",
-      "brown": "Brown",
-      "grey": "Grey",
-      "custom": "Custom Color"
+      "red": "赤",
+      "pink": "ピンク￥",
+      "purple": "紫",
+      "deepPurple": "深紫",
+      "indigo": "藍色",
+      "blue": "青",
+      "lightBlue": "水色",
+      "cyan": "試案",
+      "teal": "青緑",
+      "green": "緑",
+      "lightGreen": "薄緑",
+      "lime": "黄緑",
+      "yellow": "黄色",
+      "amber": "琥珀",
+      "orange": "オレンジ",
+      "deepOrange": "橙色",
+      "brown": "茶色",
+      "grey": "灰色",
+      "custom": "カスタム"
     }
   },
   "languageSelector": {
-    "title": "Language",
-    "desc": "Choose your preferred language."
+    "title": "言語",
+    "desc": "ご希望の言語を選択してください。"
   },
   "bgTempSelector": {
-    "title": "Background Temperature",
-    "desc": "Choose a background temperature that suits your mood.",
-    "cool": "Cool",
-    "warm": "Warm",
-    "customBgTemp": "Custom"
+    "title": "背景温度",
+    "desc": "気分に合った背景温度を選択してください。",
+    "cool": "涼しい",
+    "warm": "温かい",
+    "customBgTemp": "カスタム"
   },
   "fontFamily": {
-    "title": "Font Style",
-    "desc": "Choose a font that matches your preference",
-    "tooltip": "For detailed information on all fonts, visit the Google Fonts website.",
-    "tooltipTitle": "Powered by Google Fonts",
+    "title": "フォント",
+    "desc": "好みに合ったフォントを選択してください",
+    "tooltip": "すべてのフォントの詳細については、Google Fonts の Web サイトをご覧ください。",
+    "tooltipTitle": "Google Fonts提供",
     "tabs": {
       "googleFonts": "Google Fonts",
-      "customFonts": "Custom Fonts"
+      "customFonts": "カスタムフォント"
     },
     "empty": {
       "apiKey": {
-        "title": "Google Cloud API Key Not Found",
-        "description": "To enable this feature, please add the Google Cloud API key to your API vault."
+        "title": "Google Cloud APIキーが見つかりません",
+        "description": "この機能を使用するには、Google Cloud APIキーを設定してください。"
       },
       "search": {
-        "title": "No Font Families Found",
-        "description": "No font families found for the given queries. Please try another one."
+        "title": "フォントが見つかりません",
+        "description": "指定されたクエリに一致するフォントが見つかりません。別のクエリを試してください。"
       },
       "customFont": {
-        "title": "No Custom Fonts",
-        "description": "You haven't uploaded any custom fonts yet. Click the button above to upload one."
+        "title": "カスタムフォントがありません",
+        "description": "カスタムフォントはまだアップロードされていません。上のボタンをクリックしてアップロードしてください。"
       }
     },
     "inputs": {
-      "displayName": "Display Name",
-      "fontFamily": "Font Family",
-      "fontWeight": "Font Weight",
-      "fontFile": "Font File"
+      "displayName": "表示名",
+      "fontFamily": "フォント",
+      "fontWeight": "太さ",
+      "fontFile": "フォントファイル"
     },
     "modals": {
-      "fontFamilySelector": "Font Family Selector",
+      "fontFamilySelector": "フォントセレクター",
       "customFonts": {
-        "upload": "Upload Custom Font",
-        "edit": "Edit Custom Font",
+        "upload": "カスタムフォントをアップロード",
+        "edit": "カスタムフォントを編集",
         "delete": {
-          "title": "Delete Custom Font",
-          "description": "Are you sure you want to delete this custom font? This action cannot be undone."
+          "title": "カスタムフォントを削除",
+          "description": "このカスタムフォントを削除してもよろしいですか? この操作は元に戻せません。"
         }
       }
     },
     "buttons": {
-      "uploadButton": "Upload Custom Font"
+      "uploadButton": "カスタムフォントをアップロード"
     },
     "items": {
-      "fontFamily": "font family"
+      "fontFamily": "フォント"
     }
   },
   "fontScaleSelector": {
-    "title": "Font Scale",
-    "desc": "Choose a font scale that suits the font family you chose."
+    "title": "フォントサイズ",
+    "desc": "選択したフォントに適したフォントサイズを選択してください。",
   },
   "borderRadiusSelector": {
-    "title": "Border Radius",
-    "desc": "Adjust the roundness of corners across the interface.",
+    "title": "角の丸み",
+    "desc": "インターフェース全体の角の丸みを調整します。",
     "options": {
-      "none": "None",
-      "small": "Small",
-      "default": "Default",
-      "medium": "Medium",
-      "large": "Large",
-      "full": "Full"
+      "none": "なし",
+      "small": "小",
+      "default": "デフォルト",
+      "medium": "中",
+      "large": "大",
+      "full": "最大"
     }
   },
   "borderedSelector": {
-    "title": "Bordered Components",
-    "desc": "Enable visible borders on UI components."
+    "title": "枠付きコンポーネント",
+    "desc": "UIコンポーネントの表示境界線を有効にします。"
   },
   "bgImageSelector": {
-    "title": "Background Image",
-    "desc": "Upload or search for a background image",
+    "title": "背景画像",
+    "desc": "背景画像をアップロードまたは検索する",
     "pixabayDisabled": {
-      "tooltip": "To search for images from Pixabay, please add your Pixabay API key to the API vault. For more information, refer to"
+      "tooltip": "Pixabayから画像を検索するには、Pixabay APIキーを設定してください。詳細については、"
     },
     "modals": {
       "adjustBackground": {
-        "title": "Adjust Background Image",
+        "title": "背景画像を調整する",
         "modals": {
           "adjustBackgroundImage": "Adjust Background Image"
         },
         "columns": {
           "blur": {
-            "title": "Blur Effect",
-            "desc": "Adjust the blur level of the background image."
+            "title": "ぼかし効果",
+            "desc": "背景画像のぼかしレベルを調整します。"
           },
           "brightness": {
-            "title": "Brightness",
-            "desc": "Adjust the brightness of the background image."
+            "title": "輝度",
+            "desc": "背景画像の明るさを調整します。"
           },
           "contrast": {
-            "title": "Contrast",
-            "desc": "Adjust the contrast of your background image."
+            "title": "コントラスト",
+            "desc": "背景画像のコントラストを調整します。"
           },
           "saturation": {
-            "title": "Saturation",
-            "desc": "Adjust the intensity of colors in the background image."
+            "title": "彩度",
+            "desc": "背景画像の彩度を調整します。"
           },
           "overlayOpacity": {
-            "title": "Overlay Opacity",
-            "desc": "Adjust the transparency of the background overlay."
+            "title": "オーバーレイの不透明度",
+            "desc": "背景オーバーレイの不透明度を調整します。"
           }
         }
       }

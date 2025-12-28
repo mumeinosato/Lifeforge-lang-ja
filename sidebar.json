@@ -1,31 +1,31 @@
 {
   "categories": {
-    "productivity": "Productivity",
-    "storage": "Storage",
-    "study": "Study",
-    "finance": "Finance",
-    "confidential": "Confidential",
-    "settings": "Settings",
-    "technologies": "Technologies",
-    "utilities": "Utilities",
-    "information": "Information",
+    "productivity": "生産性",
+    "storage": "ストレージ",
+    "study": "勉強",
+    "finance": "ファイナンス",
+    "confidential": "機密",
+    "settings": "設定",
+    "technologies": "技術",
+    "utilities": "ユーティリティ",
+    "information": "情報",
     "sso": "Single Sign-On",
-    "references": "References",
-    "lifestyle": "Lifestyle",
-    "externalManagement": "External Management",
-    "healthFitness": "Health & Fitness"
+    "references": "文献",
+    "lifestyle": "ライフスタイル",
+    "externalManagement": "外部管理",
+    "healthFitness": "健康とフィットネス"
   },
   "buttons": {
-    "signOut": "Sign Out",
-    "accountSettings": "Account Settings"
+    "signOut": "サインアウト",
+    "accountSettings": "アカウント設定",
   },
   "items": {
-    "module": "Module"
+    "module": "モジュール"
   },
   "empty": {
     "modules": {
-      "title": "No modules found",
-      "description": "Try adjusting your search for modules."
+      "title": "モジュールが見つかりません",
+      "description": "モジュールの検索を調整してみてください。"
     }
   }
 }

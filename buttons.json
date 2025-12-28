@@ -16,7 +16,7 @@
   "upload": "アップロード",
   "import": "インポート",
   "submit": "送信",
-  "new": "New {{item}}",
+  "new": "新しい{item}}",
   "proceed": "進む",
   "applyFilters": "フィルターを適用する",
   "retry": "再試行",

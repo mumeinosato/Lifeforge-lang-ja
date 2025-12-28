@@ -1,119 +1,119 @@
 {
   "search": "Search {{item}}...",
   "notFound": {
-    "title": "Oops! There's nothing here",
-    "description": "The page you are looking for cannot be found. Please check the URL and try again."
+    "title": "おっと！ここには何もありません",
+    "description": "お探しのページは見つかりません。URLをご確認の上、もう一度お試しください。"
   },
-  "tipsAndTricks": "Tips and Tricks",
-  "loadingModule": "Loading module...",
-  "deprecated": "No longer supported",
+  "tipsAndTricks": "ヒントとコツ",
+  "loadingModule": "モジュールを読み込んでいます...",
+  "deprecated": "サポート終了",
   "imageUpload": {
-    "local": "Upload local image",
-    "url": "Image URL",
-    "pixabay": "Download from Pixabay",
-    "orPasteLink": "Or paste image link",
+    "local": "画像をアップロード",
+    "url": "画像のURL",
+    "pixabay": "Pixabayからダウンロード",
+    "orPasteLink": "または画像リンク",
     "inputs": {
-      "imageLink": "Image link",
-      "imageType": "Image type",
-      "imageCategory": "Image category",
-      "imageColor": "Image color",
-      "editorsChoice": "Editor's choice"
+      "imageLink": "画像リンク",
+      "imageType": "画像タイプ",
+      "imageCategory": "画像カテゴリー",
+      "imageColor": "画像カラー",
+      "editorsChoice": "編集者の選択"
     },
     "imageType": {
-      "all": "All",
-      "photo": "Photo",
-      "vector": "Vector",
-      "illustration": "Illustration"
+      "all": "すべて",
+      "photo": "写真",
+      "vector": "ベクター",
+      "illustration": "イラスト"
     },
     "items": {
       "pixabay": "Pixabay"
     },
     "empty": {
       "result": {
-        "title": "No results",
-        "description": "No images found. Please try a different search term."
+        "title": "結果なし",
+        "description": "画像が見つかりません。別の検索語句を試してください。"
       },
       "pixabay": {
-        "title": "Provided by Pixabay",
-        "description": "Search over 13 million high-quality free images."
+        "title": "Pixabay提供",
+        "description": "1,300 万点以上の高品質の無料画像を検索します。"
       }
     }
   },
   "dnd": {
-    "dropHere": "Drop items here",
-    "dragAndDropToUpload": "Drag and drop or click to upload",
-    "or": "or",
+    "dropHere": "ここにアイテムをドロップ",
+    "dragAndDropToUpload": "ドラッグアンドドロップまたはクリックしてアップロードします",
+    "or": "または",
     "buttons": {
-      "pasteFromClipboard": "Paste from Clipboard"
+      "pasteFromClipboard": "クリップボードから貼り付け"
     }
   },
   "buttons": {
-    "goBack": "Go back",
-    "reportBug": "Report bug"
+    "goBack": "戻る",
+    "reportBug": "バグを報告する"
   },
   "colorPicker": {
-    "title": "Choose Color",
+    "title": "色を選択",
     "modals": {
-      "morandiColorPalette": "Morandi Color Palette",
-      "tailwindCssColorPalette": "Tailwind CSS Color Palette"
+      "morandiColorPalette": "モランディカラーパレット",
+      "tailwindCssColorPalette": "Tailwind CSSカラーパレット"
     },
     "buttons": {
-      "morandiColorPalette": "Morandi Color Palette",
-      "tailwindCssColorPalette": "Tailwind CSS Color Palette"
+      "morandiColorPalette": "モランディカラーパレット",
+      "tailwindCssColorPalette": "Tailwind CSSカラーパレット"
     }
   },
   "empty": {
     "apiStatus": {
-      "title": "Cannot connect to API",
-      "description": "Please check your network connection and try again. If you are a developer, please check if the server is running properly."
+      "title": "APIに接続できません",
+      "description": "ネットワーク接続を確認してもう一度お試しください。開発者の方は、サーバーが正常に動作しているかどうかを確認してください。"
     }
   },
   "iconPicker": {
     "items": {
-      "icon": "Icon",
-      "iconSet": "Icon set"
+      "icon": "アイコン",
+      "iconSet": "アイコンをセット"
     },
     "empty": {
       "icon": {
-        "title": "No icons",
-        "description": "No icons found. Please try a different search term."
+        "title": "アイコンなし",
+        "description": "アイコンが見つかりません。別の検索語句を試してください。"
       }
     }
   },
   "locationDisabled": {
-    "description": "Location input is currently disabled. Please add a properly configured Google Cloud API key to enable this feature. For further information, refer to",
+    "description": "現在、位置情報の入力は無効になっています。この機能を有効にするには、適切に設定されたGoogle Cloud APIキーを追加してください。詳細については、",
     "title": "N/A"
   },
   "dates": {
     "months": {
-      "0": "January",
-      "1": "February",
-      "2": "March",
-      "3": "April",
-      "4": "May",
-      "5": "June",
-      "6": "July",
-      "7": "August",
-      "8": "September",
-      "9": "October",
-      "10": "November",
-      "11": "December"
+      "0": "1月",
+      "1": "2月",
+      "2": "3月",
+      "3": "4月",
+      "4": "5月",
+      "5": "6月",
+      "6": "7月",
+      "7": "8月",
+      "8": "9月",
+      "9": "10月",
+      "10": "11月",
+      "11": "12月"
     },
     "days": {
-      "0": "Monday",
-      "1": "Tuesday",
-      "2": "Wednesday",
-      "3": "Thursday",
-      "4": "Friday",
-      "5": "Saturday",
-      "6": "Sunday"
+      "0": "月曜日",
+      "1": "火曜日",
+      "2": "水曜日",
+      "3": "木曜日",
+      "4": "金曜日",
+      "5": "土曜日",
+      "6": "日曜日"
     }
   },
-  "fieldRequired": "This field is required.",
-  "invalidField": "Invalid field.",
-  "invalidColor": "Invalid color. Please enter a valid hex value in the format #RRGGBB.",
-  "invalidIcon": "Invalid icon. It must be a valid icon identifier from Iconify in the format of <icon-set>:<icon-name>.",
-  "loadingUserData": "Loading user data...",
-  "invalidSelection": "Invalid selection. Please choose a valid option from the list.",
-  "fileInputSupportedFormat": "Supported format: {{format}}"
+  "fieldRequired": "この項目は必須です",
+  "invalidField": "無効なフィールドです",
+  "invalidColor": "無効な色です。#RRGGBB の形式で有効な 16 進値を入力してください。",
+  "invalidIcon": "無効なアイコンです。<icon-set>:<icon-name> の形式で、Iconify の有効なアイコン識別子を指定する必要があります。",
+  "loadingUserData": "ユーザーデータを読み込んでいます...",
+  "invalidSelection": "選択が無効です。リストから有効なオプションを選択してください。.",
+  "fileInputSupportedFormat": "サポートされている形式: {{format}}"
 }
