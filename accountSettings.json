@@ -1,67 +1,67 @@
 {
-  "title": "Account Settings",
-  "description": "The place to manage all your account details",
+  "title": "アカウント設定",
+  "description": "すべてのアカウントの詳細を管理できる場所",
   "settings": {
     "title": {
-      "profilePicture": "Profile Picture",
-      "username": "Username",
-      "displayName": "Display Name",
-      "email": "Email Address",
-      "password": "Password",
-      "dateOfBirth": "Date of Birth",
-      "twoFA": "Two-Factor Authentication"
+      "profilePicture": "プロフィール画像",
+      "username": "ユーザー名",
+      "displayName": "表示名",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "dateOfBirth": "生年月日",
+      "twoFA": "二要素認証"
     },
     "desc": {
-      "profilePicture": "Upload a profile picture to personalize your account.",
-      "username": "The name that identifies you on the platform.",
-      "displayName": "The name displayed to other users.",
-      "email": "The email address you use to log in to your account.",
-      "password": "Set a strong password to protect your account.",
-      "dateOfBirth": "Set your date of birth, and we'll give you a surprise!",
-      "twoFA": "Enable two-factor authentication when logging into the system."
+      "profilePicture": "プロフィール画像をアップロードしてアカウントをカスタマイズする",
+      "username": "プラットフォーム上で識別するためユーザー名",
+      "displayName": "他のユーザーに表示される名前",
+      "email": "アカウントにログインするために使用するメールアドレス",
+      "password": "アカウントを保護するために強力なパスワードを設定してください",
+      "dateOfBirth": "生年月日を設定すると、サプライズをお届けします!",
+      "twoFA": "システムにログインする際に2要素認証を有効にする"
     },
-    "empty": "Not Set"
+    "empty": "未設定"
   },
   "modals": {
     "username": {
-      "update": "Update Username"
+      "update": "ユーザー名を更新"
     },
     "email": {
-      "update": "Update Email"
+      "update": "メールアドレスを更新"
     },
     "displayName": {
-      "update": "Update Display Name"
+      "update": "表示名を更新"
     },
     "dateOfBirth": {
-      "update": "Update Date of Birth"
+      "update": "生年月日を更新"
     },
     "enable2FA": {
-      "title": "Enable Two-Factor Authentication",
-      "description": "Please scan the QR code below with your preferred authenticator app, such as Google Authenticator, and click proceed.",
-      "confirmationDescription": "Please enter the OTP shown in your authenticator app to confirm enabling 2FA."
+      "title": "二要素認証を有効化",
+      "description": "Google Authenticatorなどのお好みの認証アプリで以下のQRコードをスキャンし、「続行」をクリックしてください。",
+      "confirmationDescription": "二要素認証の有効化を確認するために、認証アプリに表示されているOTPを入力してください。"
     },
     "disable2FA": {
-      "title": "Disable Two-Factor Authentication",
-      "description": "Are you sure you want to disable two-factor authentication?"
+      "title": "二要素認証を無効化",
+      "description": "2要素認証を無効にしてもよろしいですか？"
     }
   },
   "buttons": {
-    "changePassword": "Change Password"
+    "changePassword": "パスワードを変更"
   },
   "inputs": {
-    "dateOfBirth": "Date of Birth",
-    "username": "Username",
-    "email": "Email Address",
-    "displayName": "Display Name"
+    "dateOfBirth": "生年月日",
+    "username": "ユーザー名",
+    "email": "メールアドレス",
+    "displayName": "表示名"
   },
   "messages": {
     "twoFA": {
-      "enableSuccess": "Two-factor authentication enabled successfully.",
-      "disableSuccess": "Two-factor authentication disabled successfully."
+      "enableSuccess": "2要素認証が正常に有効化されました",
+      "disableSuccess": "2要素認証が正常に無効化されました"
     }
   },
   "misc": {
-    "enabled": "Enabled",
-    "disabled": "Disabled"
+    "enabled": "有効",
+    "disabled": "無効"
   }
 }

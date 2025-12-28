@@ -1,39 +1,39 @@
 {
-  "title": "Dashboard",
-  "description": "Your mission control center, making everything more exciting.",
+  "title": "ダッシュボード",
+  "description": "あなたのミッションコントロールセンターは、すべてをよりエキサイティングなものにします。",
   "widgets": {
     "date": {
-      "title": "Date",
-      "description": "A simple decorative widget showing today's date."
+      "title": "日付",
+      "description": "今日の日付を表示するシンプルな装飾ウィジェット"
     },
     "clock": {
-      "title": "Clock",
-      "description": "A small clock to help you keep track of time."
+      "title": "時計",
+      "description": "時間を把握するのに役立つ小さな時計"
     },
     "quotes": {
-      "description": "A random quote to inspire you through the day.",
-      "title": "Quotes"
+      "description": "一日を通してあなたにインスピレーションを与えるランダムな名言",
+      "title": "名言"
     }
   },
   "modals": {
-    "manageWidgets": "Manage Widgets"
+    "manageWidgets": "ウィジェットを管理"
   },
   "buttons": {
-    "manageCategories": "Manage Categories",
-    "unlockLayout": "Unlock Layout",
-    "manageWidgets": "Manage Widgets",
-    "lockLayout": "Lock Layout"
+    "manageCategories": "カテゴリーの管理",
+    "unlockLayout": "レイアウトの固定を解除",
+    "manageWidgets": "ウィジェットを管理",
+    "lockLayout": "レイアウトを固定"
   },
   "empty": {
     "welcome": {
-      "title": "Welcome to LifeForge!",
-      "description": "Get started by installing some modules from the ForgeStore."
+      "title": "LifeForgeへようこそ!",
+      "description": "まず、ForgeStoreからいくつかのモジュールをインストールしましょう"
     },
     "notFound": {
-      "title": "Widget Not Found",
-      "description": "The widget you are looking for does not exist. Please check your installed modules."
+      "title": "ウィジェットが見つかりません",
+      "description": "ウィジェットは存在しません。インストールされているモジュールを確認してください"
     }
   },
-  "loading": "Loading dashboard...",
+  "loading": "ダッシュボードを読み込んでいます...",
   "test": ""
 }

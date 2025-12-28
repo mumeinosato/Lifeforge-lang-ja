@@ -1,25 +1,25 @@
 {
-  "title": "Backups",
-  "description": "Manage your database backups.",
+  "title": "バックアップ",
+  "description": "Databaseのバックアップを管理",
   "items": {
-    "backup": "Backup"
+    "backup": "バックアップ"
   },
   "empty": {
     "noBackups": {
-      "title": "No Backups Found",
-      "description": "No backups available. Create a new one using the button above."
+      "title": "バックアップが見つかりません",
+      "description": "利用可能なバックアップはありません。上のボタンを使用して新しいバックアップを作成してください。"
     }
   },
   "modals": {
-    "createBackup": "Initialize New Backup"
+    "createBackup": "新しいバックアップを作成する"
   },
   "inputs": {
     "backupName": {
-      "label": "Backup Name (must end with .zip)",
-      "placeholder": "Enter Backup Name (leave empty to autogenerate)"
+      "label": "バックアップ名（.zip で終わる必要があります）",
+      "placeholder": "バックアップ名を入力してください（自動生成する場合は空白のままにしてください）"
     }
   },
   "buttons": {
-    "startBackup": "Start Backup"
+    "startBackup": "バックアップを開始"
   }
 }

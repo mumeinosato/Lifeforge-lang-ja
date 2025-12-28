@@ -1,36 +1,36 @@
 {
-  "title": "API Keys",
-  "description": "Manage all the API keys required for the modules",
-  "lockedMessage": "API key configuration module is locked",
-  "passwordRequired": "Password is required to decrypt the API keys",
+  "title": "APIキー",
+  "description": "モジュールに必要なすべてのAPIキーを管理する",
+  "lockedMessage": "APIキー設定モジュールがロックされています。",
+  "passwordRequired": "APIキーを復号するにはパスワードが必要です。",
   "missing": {
-    "title": "Missing API Keys",
-    "description": "One or more API keys are missing. Please go to the API key configuration module to set them up",
-    "requiredKeysAre": "Missing required API keys:"
+    "title": "APIキーが見つかりません",
+    "description": "1つ以上のAPIキーが見つかりません。APIキー設定モジュールで設定してください。",
+    "requiredKeysAre": "必要なAPI キーがありません:"
   },
   "modals": {
     "apiKey": {
-      "create": "Create API Key",
-      "update": "Update API Key"
+      "create": "APIキーを作成",
+      "update": "APIキーを更新"
     }
   },
   "buttons": {
-    "configApiKeys": "Configure API Keys"
+    "configApiKeys": "APIキーの設定"
   },
   "inputs": {
-    "keyName": "Key Name",
-    "keyDescription": "Key Description",
-    "keyIcon": "Key Icon",
-    "apiKey": "API Key",
-    "keyId": "Key ID"
+    "keyName": "キーの名前",
+    "keyDescription": "キーの説明",
+    "keyIcon": "キーのアイコン",
+    "apiKey": "APIキー",
+    "keyId": "キーID"
   },
   "items": {
-    "apiKey": "API Key"
+    "apiKey": "APIキー"
   },
   "empty": {
     "apiKeys": {
-      "title": "No API Keys",
-      "description": "No API keys found. Click the button below to create a new API key"
+      "title": "APIキーがありません",
+      "description": "APIキーが見つかりません。新しいAPIキーを作成するには、下のボタンをクリックしてください。"
     }
   }
 }
