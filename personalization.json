@@ -96,7 +96,7 @@
   },
   "fontScaleSelector": {
     "title": "フォントサイズ",
-    "desc": "選択したフォントに適したフォントサイズを選択してください。",
+    "desc": "選択したフォントに適したフォントサイズを選択してください。"
   },
   "borderRadiusSelector": {
     "title": "角の丸み",
