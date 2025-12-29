@@ -1,0 +1,54 @@
+{
+  "title": "実績",
+  "description": "大きな勝利も小さな勝利も祝いましょう。",
+  "difficulties": {
+    "easy": "簡単",
+    "medium": "普通",
+    "hard": "難しい",
+    "impossible": "不可能"
+  },
+  "headers": {
+    "easy": "簡単な実績",
+    "medium": "普通くらいの実績",
+    "hard": "難しい実績",
+    "impossible": "不可能な実績",
+    "filtered": "フィルタリング済み",
+    "all": "すべての実績"
+  },
+  "sidebar": {
+    "categories": "カテゴリ",
+    "difficulties": "難易度",
+    "starredAchievements": "スター付きの実績",
+    "allCategories": "全てのカテゴリ",
+    "allDifficulties": "全ての難易度"
+  },
+  "empty": {
+    "achievements": {
+      "title": "実績なし",
+      "description": "まだ実績を追加していません。上のボタンをクリックして追加してください。"
+    },
+    "categories": {
+      "title": "カテゴリなし",
+      "description": "まだカテゴリを追加していません。上のボタンをクリックして追加してください。"
+    }
+  },
+  "modals": {
+    "achievement": {
+      "create": "作成",
+      "update": "更新"
+    }
+  },
+  "inputs": {
+    "achievementTitle": "タイトル",
+    "achievementDifficulty": "難易度",
+    "achievementThoughts": "思っていること",
+    "achievementCategory": "カテゴリ",
+    "categoryName": "カテゴリ名",
+    "categoryColor": "カテゴリカラー",
+    "categoryIcon": "カテゴリアイコン"
+  },
+  "items": {
+    "achievement": "実績"
+  },
+  "accomplishedOn": "Accomplished {{date}}"
+}

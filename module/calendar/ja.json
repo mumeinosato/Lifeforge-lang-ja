@@ -1,0 +1,192 @@
+{
+  "title": "カレンダー",
+  "description": "運命の人との約束（または歯医者さん）を逃さないでください。",
+  "widgets": {
+    "miniCalendar": {
+      "title": "ミニカレンダー",
+      "description": "ミニカレンダーで今後のイベントを表示します。"
+    },
+    "todaysEvent": {
+      "title": "今日の予定",
+      "description": "今日の予定です",
+      "empty": {
+        "event": {
+          "title": "予定なし",
+          "description": "今日は予定がありません"
+        }
+      }
+    }
+  },
+  "view": {
+    "day": "日",
+    "month": "月",
+    "week": "周",
+    "agenda": "予定"
+  },
+  "sidebar": {
+    "categories": "カテゴリー",
+    "calendars": "カレンダー"
+  },
+  "modals": {
+    "event": {
+      "create": "予定を作成",
+      "update": "予定を更新"
+    },
+    "category": {
+      "create": "カテゴリを作成",
+      "update": "カテゴリを更新"
+    },
+    "scanImage": {
+      "title": "画像をスキャン"
+    },
+    "calendar": {
+      "create": "カレンダーを作成",
+      "update": "カレンダーを更新"
+    },
+    "confirmAddException": {
+      "title": "例外の追加を確認",
+      "description": "この例外を予定に追加してもよろしいですか?"
+    },
+    "subscribeToIcsCalendar": "ICSカレンダーを購読する",
+    "selectYearAndMonth": "年と月を選択"
+  },
+  "inputs": {
+    "startTime": "開始時",
+    "endTime": "終了時",
+    "eventCategory": "予定カテゴリ",
+    "eventTitle": "予定名",
+    "categoryName": "カテゴリ名",
+    "categoryColor": "カテゴリカラー",
+    "categoryIcon": "カテゴリアイコン",
+    "location": "予定",
+    "referenceLink": "参考リンク",
+    "description": "説明",
+    "image": "画像",
+    "eventType": "予定タイプ",
+    "eventTime": "予定時間",
+    "frequency": "頻度",
+    "yearly": {
+      "exactDate": {
+        "title": "日付",
+        "inputs": {
+          "month": "月",
+          "date": "日"
+        }
+      },
+      "relativeDay": {
+        "title": "相対日",
+        "inputs": {
+          "onThe": "番目",
+          "onTheDay": "曜日",
+          "ofTheMonth": "月"
+        }
+      }
+    },
+    "monthly": {
+      "inputs": {
+        "every": "毎",
+        "months": "月"
+      },
+      "exactDate": {
+        "title": "日付",
+        "inputs": {
+          "date": "日付"
+        }
+      },
+      "relativeDay": {
+        "title": "相対日",
+        "inputs": {
+          "onThe": "番目",
+          "onTheDay": "曜日"
+        }
+      }
+    },
+    "weekly": {
+      "inputs": {
+        "every": "毎",
+        "weeks": "週",
+        "onDays": "曜日"
+      }
+    },
+    "daily": {
+      "inputs": {
+        "every": "毎",
+        "days": "日"
+      }
+    },
+    "hourly": {
+      "inputs": {
+        "every": "毎",
+        "hours": "時間"
+      }
+    },
+    "endType": "終了",
+    "useGoogleMap": "Google Mapsをつかう",
+    "calendar": "カレンダー",
+    "calendarName": "カレンダー名",
+    "calendarColor": "カレンダーカラー",
+    "icsUrl": "ICSリンク"
+  },
+  "items": {
+    "event": "予定",
+    "category": "カテゴリー"
+  },
+  "buttons": {
+    "inputManually": "手動で入力",
+    "scanFromImage": "画像をスキャン",
+    "today": "今日",
+    "exceptThisTime": "今回は例外",
+    "viewReference": "参照を表示"
+  },
+  "eventTypes": {
+    "single": "単一予定",
+    "recurring": "定期予定"
+  },
+  "recurring": {
+    "freqs": {
+      "yearly": "毎年",
+      "monthly": "毎月",
+      "weekly": "毎週",
+      "daily": "毎日",
+      "hourly": "毎時"
+    },
+    "onThe": {
+      "first": "1番目",
+      "second": "2番目",
+      "third": "3番目",
+      "fourth": "4番目",
+      "last": "最後"
+    },
+    "onTheDay": {
+      "weekday": "平日",
+      "day": "日",
+      "weekendDay": "週末"
+    },
+    "endTypes": {
+      "never": "なし",
+      "after": "回後",
+      "on": "日まで"
+    },
+    "inputs": {
+      "on": "日付",
+      "after": "回数",
+      "executions": "回",
+      "durationUnit": "単位",
+      "durationAmount": "数"
+    },
+    "durationUnits": {
+      "minute": "分",
+      "hour": "時",
+      "day": "日",
+      "week": "周",
+      "month": "月",
+      "year": "年"
+    }
+  },
+  "empty": {
+    "calendars": {
+      "title": "カレンダーが見つかりません",
+      "description": "上の+をクリックするとカレンダーを作成できます。"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "アイディアボックス",
+  "description": "インスピレーションが消えてしまう前に、それを捉えましょう!",
+  "entryType": {
+    "text": "テキスト",
+    "image": "画像",
+    "link": "リンク",
+    "folder": "フォルダ"
+  },
+  "empty": {
+    "container": {
+      "title": "アイディアボックスが見つかりませんでした",
+      "description": "まだアイデアボックスを作成していません。上のボタンをクリックして作成してください。"
+    },
+    "folder": {
+      "title": "フォルダが見つかりませんでした",
+      "description": "まだフォルダを作成していません。下のボタンをクリックして作成してください。"
+    },
+    "idea": {
+      "title": "アイディアが見つかりませんでした",
+      "description": "まだアイデアを追加していません。下のボタンをクリックしてアイデアを追加してください。"
+    },
+    "archived": {
+      "title": "アーカイブされたアイデアが見つかりませんでした",
+      "description": "まだアイデアをアーカイブしていません。"
+    },
+    "result": {
+      "title": "結果なし",
+      "description": "検索条件に一致するアイデアはありません。"
+    },
+    "containerSearch": {
+      "title": "コンテナが見つかりません",
+      "description": "検索クエリに一致するコンテナが見つかりません。別のコンテナを試してください。"
+    }
+  },
+  "modals": {
+    "container": {
+      "create": "アイディアボックスを作成",
+      "update": "アイディアボックスを更新"
+    },
+    "folder": {
+      "create": "フォルダを作成",
+      "update": "フォルダを更新"
+    },
+    "tag": {
+      "create": "タグを作成",
+      "update": "タグを更新"
+    },
+    "idea": {
+      "create": "アイディアを作成",
+      "update": "編集"
+    },
+    "moveToFolder": "フォルダに移動"
+  },
+  "buttons": {
+    "unpin": "ピン止めを解除",
+    "pin": "ピン止め",
+    "viewArchived": "アーカイブを閲覧",
+    "archive": "アーカイブ",
+    "removeFromFolder": "フォルダから削除",
+    "moveToFolder": "フォルダに移動",
+    "hide": "隠す",
+    "unhide": "表示する",
+    "showHidden": "非表示の項目を表示",
+    "hideHidden": "非表示の項目を隠す"
+  },
+  "inputs": {
+    "containerName": "アイディアボックス",
+    "folderName": "フォルダ名",
+    "ideaTitle": "タイトル",
+    "ideaType": "タイプ",
+    "imageLink": "リンク",
+    "ideaImage": "画像",
+    "coverImage": "表紙画像",
+    "ideaTags": "タグ",
+    "ideaContent": "内容",
+    "ideaLink": "リンク",
+    "tagName": "タグ",
+    "tagIcon": "タグアイコン",
+    "tagColor": "タグカラー",
+    "containerColor": "アイディアボックスカラー",
+    "folderColor": "フォルダカラー",
+    "containerIcon": "アイディアボックスアイコン",
+    "folderIcon": "フォルダアイコン"
+  },
+  "items": {
+    "idea": "アイディア",
+    "container": "アイディアボックス",
+    "folder": "フォルダ",
+    "ideaInFolder": "フォルダ内のアイディア",
+  }
+}

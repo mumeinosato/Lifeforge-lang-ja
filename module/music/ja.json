@@ -1,0 +1,42 @@
+{
+  "title": "音楽",
+  "description": "あなたの人生の最高の瞬間を彩るパーソナルサウンドトラック。",
+  "widgets": {
+    "musicPlayer": {
+      "title": "ミュージックプレイヤー",
+      "description": "自分だけの音楽を再生しましょう。",
+      "empty": {
+        "music": {
+          "title": "ミュージックが見つかりませんでした",
+          "description": "再生する音楽を選択するには、下のボタンをクリックしてください。"
+        }
+      }
+    }
+  },
+  "buttons": {
+    "importFromNas": "NASからインポート",
+    "downloadFromYoutube": "YouTubeからダウンロード",
+    "selectMusic": "曲を選択"
+  },
+  "inputs": {
+    "musicName": "曲名",
+    "author": "Author",
+    "videoUrl": "Video URL"
+  },
+  "items": {
+    "music": "ミュージック"
+  },
+  "empty": {
+    "music": {
+      "title": "No Music",
+      "description": "まだ音楽を追加していません。下のボタンをクリックして追加してください。"
+    },
+    "result": {
+      "title": "結果なし",
+      "description": "アイテムが見つかりません。他のキーワードを試してください。"
+    }
+  },
+  "modals": {
+    "downloadFromYoutube": "YouTubeからダウンロード"
+  }
+}

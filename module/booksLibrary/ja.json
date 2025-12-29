@@ -1,0 +1,137 @@
+{
+  "title": "ライブラリ",
+  "description": "あなたの個人用ライブラリ。延滞料金はかかりません。",
+  "libgen": {
+    "results": {
+      "title": "書籍が見つかりませんでした",
+      "description": "Library Genesisに一致する書籍が見つかりません。"
+    },
+    "searchQuery": {
+      "title": "検索クエリがありません",
+      "description": "Library Genesisを探索してみましょう。まずは書籍を検索してみましょう。"
+    }
+  },
+  "annas": {
+    "results": {
+      "title": "書籍が見つかりませんでした",
+      "description": "Anna's Archiveに一致する書籍が見つかりません。"
+    },
+    "searchQuery": {
+      "title": "検索クエリがありません",
+      "description": "Anna's Archiveを探索してみましょう。まずは書籍を検索してみましょう。"
+    }
+  },
+  "results": {
+    "title": "書籍が見つかりませんでした",
+    "description": "一致するものが見つかりません。別のものを検索してください。"
+  },
+  "languages": "指定の言語が見つかりません",
+  "sidebar": {
+    "starred": "スター",
+    "allBooks": "全て",
+    "favourite": "お気に入り",
+    "languages": "言語",
+    "collections": "コレクション",
+    "fileTypes": "ファイル形式",
+    "read": "既読",
+    "reading": "読書中",
+    "unread": "未読",
+    "readStatus": "ステータス"
+  },
+  "modals": {
+    "libraryGenesis": "Library Genesis",
+    "annasArchive": "Anna's Archive",
+    "addToLibrary": "ライブラリに追加",
+    "modifyBookData": "書籍情報の更新",
+    "language": {
+      "create": "言語を追加",
+      "update": "言語を更新"
+    },
+    "sendToKindle": "Kindleに送信",
+    "collection": {
+      "create": "コレクションを作成",
+      "update": "コレクションを更新"
+    },
+    "uploadFromDevice": "デバイスからアップロード"
+  },
+  "buttons": {
+    "addToLibrary": "ライブラリに追加",
+    "alreadyInLibrary": "すでにライブラリにあります",
+    "viewDetails": "詳細を表示",
+    "uploadFromDevice": "デバイスからアップロード",
+    "downloadFromLibgen": "Library Genesisからダウンロード",
+    "searchAnnas": "Anna's Archiveを検索",
+    "downloading": "ダウンロード中",
+    "sendToKindle": "Kindleに送信",
+    "markAsRead": "既読にする",
+    "markAsUnread": "未読にする",
+    "markAsReading": "読書中にする",
+    "addToFavourites": "お気に入りに追加",
+    "removeFromFavourites": "お気に入りから削除",
+    "openDownloadPage": "ダウンロードページを開く",
+    "bookmark": "ブックマーク",
+    "removeBookmark": "ブックマークから削除"
+  },
+  "inputs": {
+    "isbn": "ISBN",
+    "libgenId": "ライブラリID",
+    "publisher": "出版社",
+    "bookTitle": "タイトル",
+    "publicationYear": "出版日",
+    "fileSize": "ファイルサイズ",
+    "md5": "MD5ハッシュ",
+    "languages": "言語",
+    "languageName": "言語",
+    "languageIcon": "言語アイコン",
+    "authors": "著者",
+    "edition": "版",
+    "extension": "ファイル形式",
+    "kindleEmail": "Kindleメールアドレス",
+    "collection": "コレクション",
+    "collectionName": "コレクション名",
+    "collectionIcon": "コレクションアイコン",
+    "uploadBookFile": "書籍をアップロード"
+  },
+  "items": {
+    "book": "書籍",
+    "libgenBook": "何百万冊もの書籍",
+    "annasBook": ""
+  },
+  "empty": {
+    "book": {
+      "title": "書籍が見つかりませんできた",
+      "description": "まだ書籍を追加していません。下のボタンをクリックして書籍を追加してください。"
+    },
+    "result": {
+      "title": "結果なし",
+      "description": "アイテムが見つかりません。他のキーワードを試してください。"
+    },
+    "libgenResult": {
+      "title": "結果なし",
+      "description": "Library Genesisに一致する書籍が見つかりません。別の検索クエリを試してください。"
+    },
+    "annasResult": {
+      "title": "結果なし",
+      "description": "Anna's Archiveに一致する書籍が見つかりません。別の検索クエリを試してください。"
+    },
+    "annas": {
+      "title": "Anna's Archive提供",
+      "description": "Anna's Archive内の書籍を閲覧し、ライブラリに追加します。"
+    },
+    "noSMTPKeys": {
+      "title": "SMTP APIキーが見つかりません",
+      "description": "APIキーに適切なSMTP API設定が見つかりません。\"smtp-user\"と\"smtp-pass\"を設定してください。"
+    },
+    "collections": "コレクションが見つかりませんでした",
+    "languages": "利用可能な言語がありません",
+    "fileTypes": "ファイル形式が見つかりません",
+    "libgenOffline": {
+      "title": "Libgenはオフラインです",
+      "description": "Libgenの現在のプロバイダーに接続できません。別のプロバイダーをお試しください。"
+    }
+  },
+  "checkingKeys": "SMTP API キーを確認しています...",
+  "kindleSent": "選択したドキュメントを対象のメールアドレスに送信するプロセスを起動しました。",
+  "bookmarkedBooks": "ブックマークした書籍",
+  "bookmarkedBooksDesc": "{{number}} 冊の書籍をブックマークしました"
+}

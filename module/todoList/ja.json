@@ -1,0 +1,94 @@
+{
+  "title": "TODOリスト",
+  "description": "もう二度とタスクを忘れることはありません（洗濯を除く）。",
+  "widgets": {
+    "todoList": {
+      "title": "TODOリスト",
+      "description": "タスクを整理して追跡します。",
+      "empty": {
+        "today": {
+          "title": "今日のタスクはありません",
+          "description": "今日のタスクはありません"
+        }
+      }
+    }
+  },
+  "header": {
+    "allTasks": "全てのタスク",
+    "todaysTasks": "今日のタスク",
+    "scheduledTasks": "予定されたタスク",
+    "overdueTasks": "期限切れのタスク",
+    "completedTasks": "完了したタスク",
+    "filteredTasks": "フィルタリングされたタスク"
+  },
+  "sidebar": {
+    "all": "全てのタスク",
+    "today": "今日のタスク",
+    "completed": "完了",
+    "scheduled": "予定",
+    "overdue": "期限切れ",
+    "tasks": "タスク",
+    "lists": "リスト",
+    "tags": "タグ",
+    "priorities": "優先度"
+  },
+  "headers": {
+    "allTasks": "全てのタスク",
+    "todaysTasks": "今日のタスク",
+    "scheduledTasks": "予定されたタスク",
+    "overdueTasks": "期限切れのタスク",
+    "completedTasks": "完了したタスク",
+    "filteredTasks": "フィルタリングされたタスク"
+  },
+  "modals": {
+    "tasks": {
+      "create": "タスクを作成",
+      "update": "タスクを更新"
+    },
+    "list": {
+      "create": "リストを作成",
+      "update": "リストを更新"
+    },
+    "tag": {
+      "create": "タグを作成",
+      "update": "タグを更新"
+    },
+    "priority": {
+      "create": "優先度を作成",
+      "update": "優先度を更新"
+    }
+  },
+  "inputs": {
+    "dueDate": "期限",
+    "notes": "備考",
+    "priority": "優先度",
+    "tags": "タグ",
+    "list": "リスト",
+    "subtasks": "サブタスク",
+    "summary": "概要",
+    "priorityName": "優先度",
+    "priorityIcon": "優先度のアイコン",
+    "priorityColor": "優先度のカラー",
+    "listName": "リスト名",
+    "listIcon": "リストアイコン",
+    "listColor": "リストカラー",
+    "tagName": "タグ名",
+    "hasTime": "時刻を含める"
+  },
+  "items": {
+    "task": "タスク"
+  },
+  "empty": {
+    "todaysTask": {
+      "title": "今日のタスクはありません",
+      "description": "今日のタスクリストは空です。新しいタスクを追加して始めましょう！"
+    },
+    "tasks": {
+      "title": "利用可能なタスクはありません",
+      "description": "利用可能なタスクがありません。新しいタスクを追加して始めましょう!"
+    },
+    "lists": "利用可能なリストがありません",
+    "tags": "利用可能なタグがありません",
+    "priorities": "利用可能な優先度がありません"
+  }
+}
